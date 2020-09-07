@@ -8,4 +8,6 @@ Tema: Instalación del entorno R
   - [Evidencia_1](Evidencia_1_Instalacion_de_software.pdf)
 
 :paperclip: Clase 2: 07 septiembre 2020
-Tema: Coniguración Git.
+
+ 
+   Tema: Configuración Git.
