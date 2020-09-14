@@ -8,7 +8,10 @@ Tema: Instalación del entorno R
   - [Evidencia_1](Evidencia_1_Instalacion_de_software.pdf)
 
 :paperclip: Clase 2: 07 septiembre 2020
-Tema: Configuración Git.
-- :file_folder: _Tarea_:
 
-  - [T2_A1](Tarea02_CarolinaHernandezGarcia.r)
+ 
+:paperclip: Clase 3: 14 septiembre 2020
+Tema: Temas generales
+  :file_folder: _Laboratorio 1_ 
+  :file_folder: _Tarea_
+  
