@@ -12,6 +12,8 @@ Tema: Instalación del entorno R
  
 :paperclip: Clase 3: 14 septiembre 2020
 Tema: Temas generales
-  :file_folder: _Laboratorio 1_ 
-  :file_folder: _Tarea_
+ 
+ :file_folder: _Laboratorio 1_ 
+
+:file_folder: _Tarea_
   
