@@ -25,11 +25,11 @@ Tema: Temas generales
  - :microscope: _Laboratorio_: Sí 
 
 
- :paperclip: Clase 4:   21 septiembre 2020
+ :paperclip: Clase 4:    21 septiembre 2020
   
   Tema: Estadística descriptiva
   
-  :notebook: [Script de la clase]("Clase_4.R")
+  :notebook: [Clase 4]("Clase_4.R")
 
 - :file_folder: _Tarea_:
  
@@ -39,26 +39,26 @@ Tema: Temas generales
   
   
   
-  :paperclip: Clase 5:  28 septiembre 2020
+:paperclip: Clase 5:  28 septiembre 2020
   
   Tema: "Estadística Inferencial"
   
-   :notebook: [Clase_5_Estadistica_inferencial.R]("Clase_5_Estadistica_inferencial.R")
+   :notebook: [Clase 5]("Clase_5_Estadistica_inferencial.R")
    
 - :file_folder: _Tarea_:
  
    - [Asignacion 3]("Asignacion_3.R")
    
-  
+   - [Asignacion 3]("Asignacion_3.pdf")
   
  :paperclip: Clase 6:  05 de octubre 2020  
  
-  Tema: "Estadística Inferencial"
+  Tema: "Pruebas de t para muestras dependientes e independientes"
   
 - :microscope: _Laboratorio_: Sí   
   
   
-  :notebook: [Script de la clase]("Clase_5_Estadistica_inferencial.R")
+  :notebook: [Clase 6]("Clase_6.R")
   
   
 - :file_folder: _Tarea_:
@@ -100,11 +100,8 @@ Tema: Temas generales
 - :microscope: _Laboratorio_: Sí   
   
   
-  :notebook: [Script de la clase]("Clase_5_Estadistica_inferencial.R")
-  
-  
 - :file_folder: _Tarea_:
  
-   - [Asignacion 5]("Asignacion_6.R") 
+   - [Asignacion 6]("Asignacion_6.R") 
    
    - [Asignacion 6.pdf]("Asignacion_6.Regresión lineal.pdf")  
